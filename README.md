@@ -7,7 +7,11 @@
 A command-line tool that solves conda environment activation autocomplete issues.
 一个解决conda环境激活时自动补全问题的命令行工具。
 
-![Demo](https://via.placeholder.com/800x400/2d3748/ffffff?text=Demo+GIF+Here)
+
+
+https://github.com/user-attachments/assets/c931a0a1-a8fc-4f4b-b93d-e4ad9606298f
+
+
 
 ## Features | 功能特性
 
